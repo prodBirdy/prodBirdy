@@ -47,12 +47,14 @@ With a strong foundation in modern web technologies, I am adept at bringing comp
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prodBirdy&theme=radical&row=1&column=6" alt="GitHub Trophies" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodBirdy&layout=compact&theme=radical" alt="Most Used Languages" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prodBirdy&theme=radical" alt="GitHub Streak Stats" />
 </div>
+
+
 
 ---
 

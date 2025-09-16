@@ -1,21 +1,9 @@
 # <div align="center">Hi 👋, I'm Jonas</div>
 
 <div align="center">
-  <a href="https://portfolio-pearl-zeta-93.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
-<div align="center">
   <h3>A Passionate Developer and Designer</h3>
   <p>Building beautiful, intuitive digital experiences</p>
 </div>
-
-## 💫 About Me
-
-As a developer and designer with a deep love for crafting digital experiences, I specialize in building intuitive, user-centric applications and creating visually compelling designs. My journey in the tech world began with a curiosity for how things work, which quickly evolved into a passion for developing solutions that not only function efficiently but also delight users.
-
-With a strong foundation in modern web technologies, I am adept at bringing complex ideas to life through clean and maintainable code. My design philosophy is centered around simplicity and elegance, ensuring that every product I create is not only aesthetically pleasing but also highly functional.
 
 ## 🛠️ Tech Stack
 
@@ -32,28 +20,6 @@ With a strong foundation in modern web technologies, I am adept at bringing comp
   <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" alt="Blazor" />
   
 </div>
-
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/prodBirdy/shadcn-hydrogen-setup">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prodBirdy&repo=shadcn-hydrogen-setup&theme=radical" />
-  </a>
-  <a href="https://github.com/prodBirdy/Compress">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=prodBirdy&repo=Compress&theme=radical" />
-  </a>
-</div>
-
-## 📈 GitHub Stats
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodBirdy&layout=compact&theme=radical" alt="Most Used Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prodBirdy&theme=radical" alt="GitHub Streak Stats" />
-</div>
-
 
 
 ---
